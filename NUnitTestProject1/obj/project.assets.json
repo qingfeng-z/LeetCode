@@ -5782,11 +5782,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\12731\\source\\repos\\Bitbucktet\\LeetCodeProject\\NUnitTestProject1\\NUnitTestProject1.csproj",
+      "projectUniqueName": "C:\\Users\\12731\\source\\repos\\Bitbucktet\\LeetCodeProject\\LeetCode\\NUnitTestProject1\\NUnitTestProject1.csproj",
       "projectName": "NUnitTestProject1",
-      "projectPath": "C:\\Users\\12731\\source\\repos\\Bitbucktet\\LeetCodeProject\\NUnitTestProject1\\NUnitTestProject1.csproj",
+      "projectPath": "C:\\Users\\12731\\source\\repos\\Bitbucktet\\LeetCodeProject\\LeetCode\\NUnitTestProject1\\NUnitTestProject1.csproj",
       "packagesPath": "C:\\Users\\12731\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\12731\\source\\repos\\Bitbucktet\\LeetCodeProject\\NUnitTestProject1\\obj\\",
+      "outputPath": "C:\\Users\\12731\\source\\repos\\Bitbucktet\\LeetCodeProject\\LeetCode\\NUnitTestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5807,8 +5807,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\12731\\source\\repos\\Bitbucktet\\LeetCodeProject\\LeetCode\\LeetCode.csproj": {
-              "projectPath": "C:\\Users\\12731\\source\\repos\\Bitbucktet\\LeetCodeProject\\LeetCode\\LeetCode.csproj"
+            "C:\\Users\\12731\\source\\repos\\Bitbucktet\\LeetCodeProject\\LeetCode\\LeetCode\\LeetCode.csproj": {
+              "projectPath": "C:\\Users\\12731\\source\\repos\\Bitbucktet\\LeetCodeProject\\LeetCode\\LeetCode\\LeetCode.csproj"
             }
           }
         }

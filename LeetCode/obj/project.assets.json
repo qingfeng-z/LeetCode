@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\12731\\source\\repos\\Bitbucktet\\LeetCodeProject\\LeetCode\\LeetCode.csproj",
+      "projectUniqueName": "C:\\Users\\12731\\source\\repos\\Bitbucktet\\LeetCodeProject\\LeetCode\\LeetCode\\LeetCode.csproj",
       "projectName": "LeetCode",
-      "projectPath": "C:\\Users\\12731\\source\\repos\\Bitbucktet\\LeetCodeProject\\LeetCode\\LeetCode.csproj",
+      "projectPath": "C:\\Users\\12731\\source\\repos\\Bitbucktet\\LeetCodeProject\\LeetCode\\LeetCode\\LeetCode.csproj",
       "packagesPath": "C:\\Users\\12731\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\12731\\source\\repos\\Bitbucktet\\LeetCodeProject\\LeetCode\\obj\\",
+      "outputPath": "C:\\Users\\12731\\source\\repos\\Bitbucktet\\LeetCodeProject\\LeetCode\\LeetCode\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
